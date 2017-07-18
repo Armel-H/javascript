@@ -23,7 +23,7 @@ function init(infos){
     nom.innerHTML = infos.name;
 
     //Reglage du bouton
-    bouton.innerHTML = 'Retrouvailles';
+    bouton.innerHTML = 'affrontement';
     bouton.onclick = dialogue;
 
     //Ajout des classes sur paroles

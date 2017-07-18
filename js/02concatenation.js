@@ -23,6 +23,6 @@ var calcul3 = DebutPhrase + NbStagiaires + SuitePhrase + FinPhrase;
 console.log(calcul3);
 document.write(calcul3+"<br>");
 
-//--Nous souhaitons afficher la phrase en un seul morceau avec la cvoncaténation => à vos clavier!--//
+//--Nous souhaitons afficher la phrase en un seul morceau avec la concaténation => à vos clavier!--//
 //mettre des espaces
 //document.write(DebutPhrase + NbStagiaires + SuitePhrase + " " +FinPhrase);

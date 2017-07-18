@@ -1,12 +1,12 @@
 var data = {
   'perso_0' : {
-    'name' : 'Chouwi',
-    'picture' : 'img/chouwi.jpg',
-    'texte' : ['Brouuuuwhaaaaa','Drrrriiiitch','Hinnn Wouaaa']
-  },
+    'name' : 'Les Presidents',
+    'picture' : 'img/sarkozy.jpg',
+    'texte' : ['A mort les Amerlocs!!!','remets ta moumoute droite HA HA','Vous êtes les plus forts et nous les plus intelligents!']
+},
   'perso_1' : {
-    'name' : 'Archibalde',
-    'picture' : 'img/archi.jpg',
-    'texte' : ['Grand père, c\'est moi!','J\'aime les pâttes moi aussi','Pff nimporte quoi!']
+    'name' : 'Les bibendumBurgers',
+    'picture' : 'img/clinton.jpg',
+    'texte' : ['Petits Francais, on va vous bouffer','Petit pays Petits présidents et vlan dans les dents','Pff nimporte quoi!']
   }
 }
